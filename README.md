@@ -93,16 +93,16 @@
 - **Features:** User authentication, product catalog, shopping cart, payment integration
 - [![Live Demo](https://img.shields.io/badge/Live_Demo-View-green?style=for-the-badge)](https://your-demo-link.com)
 
-### 🤖 **Machine Learning Price Predictor**
+### 🤖 **Machine Learning Credit Card Fraud Detection**
 ![ML Project](https://img.shields.io/badge/ML_AI-Project-orange?style=for-the-badge)
 - **Tech:** Python, TensorFlow, Scikit-learn, Flask, Pandas
 - **Features:** Data preprocessing, model training, REST API, real-time predictions
 - [![View Code](https://img.shields.io/badge/Code-View-blue?style=for-the-badge)](https://github.com/sajal-samanta/ml-price-predictor)
 
-### ☁️ **AWS Serverless Application**
+### ☁️ **Heart Disease Prediction**
 ![Cloud Project](https://img.shields.io/badge/AWS_Cloud-Project-yellow?style=for-the-badge)
-- **Tech:** AWS Lambda, API Gateway, DynamoDB, S3, CloudFront
-- **Features:** Serverless architecture, auto-scaling, cost-effective solution
+- **Tech:** Python, TensorFlow, Scikit-learn, Flask, Pandas
+- **Features:** Data preprocessing, model training, REST API, real-time predictions
 - [![Deployment](https://img.shields.io/badge/Deployed-AWS-orange?style=for-the-badge)](https://your-aws-app.com)
 
 ## 📈 Activity Graph
@@ -131,12 +131,7 @@
 - **Deep Learning with PyTorch**
 - **System Design Principles**
 
-## 🎯 Goals for 2024
 
-- [ ] Contribute to open source projects
-- [ ] Master Kubernetes and Docker
-- [ ] Build a scalable microservices application
-- [ ] Get AWS Solutions Architect Certification
 
 ## 📊 Weekly Development Breakdown
 
@@ -158,7 +153,7 @@ Other         ████░░░░░░░░░░░░░░░░░   
 
 ### 🎯 Current Mission: Building Amazing Projects!
 
-**Level:** Senior Developer  
+**Level:** Junior Developer  
 **XP:** 🟢🟢🟢🟢🟢  
 **Skills Unlocked:** 15+  
 **Projects Completed:** 25+
