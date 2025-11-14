@@ -140,15 +140,31 @@
 
 ## 📊 Weekly Development Breakdown
 
-```text
+
 TypeScript    ████████████░░░░░░░░░   50%
 Python        ██████████░░░░░░░░░░░   40%
 JavaScript    ████████░░░░░░░░░░░░░   35%
 Java          █████░░░░░░░░░░░░░░░░   20%
 Other         ████░░░░░░░░░░░░░░░░░   15%
-```
 
----
+
+
+
+## 🎮 Interactive Developer Profile
+
+<div align="center">
+
+![Profile Game](https://raw.githubusercontent.com/sajal-samanta/sajal-samanta/main/assets/profile-game.gif)
+
+### 🎯 Current Mission: Building Amazing Projects!
+
+**Level:** Senior Developer  
+**XP:** 🟢🟢🟢🟢🟢  
+**Skills Unlocked:** 15+  
+**Projects Completed:** 25+
+
+</div>
+
 
 <div align="center">
   
