@@ -42,6 +42,40 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
+
+## 👨‍💻 My Development Process
+
+<div align="center">
+
+![Development Workflow](https://raw.githubusercontent.com/ABHIJIT2601/ABHIJIT2601/main/images/developer.gif)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="80">
+      <br>
+      <em>Planning</em>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/UhWxW3GQjO6rVtogK0/giphy.gif" width="80">
+      <br>
+      <em>Coding</em>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/LnUVRs69PvmcOnk6Qj/giphy.gif" width="80">
+      <br>
+      <em>Testing</em>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="80">
+      <br>
+      <em>Deploying</em>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
