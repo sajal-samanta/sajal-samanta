@@ -43,13 +43,27 @@
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-## 👨‍💻 Developer Journey
+## 🎨 Code Artist
 
-<div align="center">
+```ascii
+    ╔══════════════════════════════╗
+    ║    👨‍💻 DEVELOPER MODE: ON    ║
+    ╚══════════════════════════════╝
+    
+       _____
+      /_____/|
+     |   |  ||
+     | C |  ||
+     | O |  ||
+     | D |  ||
+     | E |  ||
+     |___|__||
+    /______|/
 
-![Developer Activity](https://raw.githubusercontent.com/sajal-samanta/sajal-samanta/main/assets/developer.gif)
 
-</div>
+    💻 Compiling Dreams...
+    🚀 Deploying Innovations...
+    🔥 Coding with Passion!
 
 ## 📊 GitHub Stats
 
