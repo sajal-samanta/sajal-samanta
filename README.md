@@ -5,6 +5,34 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F718&width=435&lines=Full+Stack+Developer;MERN+Stack+Specialist;Machine+Learning+Enthusiast;AWS+Cloud+Practitioner)](https://git.io/typing-svg)
 
+
+## 💬 Languages I Speak
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
+      <br>Python
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="100">
+      <br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="100">
+      <br>React
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="100">
+      <br>Node.js
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 **Frontend Development**
@@ -43,27 +71,7 @@
 ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
 
-## 🎨 Code Artist
 
-```ascii
-    ╔══════════════════════════════╗
-    ║    👨‍💻 DEVELOPER MODE: ON    ║
-    ╚══════════════════════════════╝
-    
-       _____
-      /_____/|
-     |   |  ||
-     | C |  ||
-     | O |  ||
-     | D |  ||
-     | E |  ||
-     |___|__||
-    /______|/
-
-
-    💻 Compiling Dreams...
-    🚀 Deploying Innovations...
-    🔥 Coding with Passion!
 
 ## 📊 GitHub Stats
 
